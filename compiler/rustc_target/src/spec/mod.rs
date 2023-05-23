@@ -1190,6 +1190,8 @@ supported_targets! {
     ("thumbv8m.main-none-eabi", thumbv8m_main_none_eabi),
     ("thumbv8m.main-none-eabihf", thumbv8m_main_none_eabihf),
 
+    ("thumbv8.2a-none-eabi", thumbv8_2a_none_eabi),
+
     ("armv7a-none-eabi", armv7a_none_eabi),
     ("armv7a-none-eabihf", armv7a_none_eabihf),
 
